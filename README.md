@@ -1,5 +1,5 @@
-# This is a demo Node.js project #
-### Using Express for development. The project also utilizes libraries such as *multer*, *uuidv4*, and *SuperTokens* for API development
+# This is a demo Node.js project # 
+### Using Express for development. The project also utilizes libraries such as *multer*, *uuidv4*, and *SuperTokens* for API development. [repo](https://github.com/dharm-singh-pro/ecommerce-admin)
 
 If you do not have a Node.js environment set up, follow the guide below:
 
